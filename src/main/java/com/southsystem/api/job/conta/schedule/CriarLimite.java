@@ -1,6 +1,5 @@
-package schedule;
+package com.southsystem.api.job.conta.schedule;
 
-import com.southsystem.api.job.conta.service.ContaCorrenteService;
 import com.southsystem.api.job.conta.service.LimiteService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.scheduling.annotation.Scheduled;
